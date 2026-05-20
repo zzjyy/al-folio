@@ -1,81 +1,28 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: BSc in Computer Science
+description: 6 semesters · 180 ECTS · full-time · taught in English
 img: assets/img/12.jpg
 importance: 1
-category: work
-related_publications: true
+category: Bachelor's (BSc)
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+The BSc in Computer Science is the flagship undergraduate programme of the Faculty of Computer Science. It is a six-semester, 180 ECTS course delivered in English, with optional Polish-language elective modules from the second year onwards.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+## Programme structure
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+| Year | Core modules | Electives |
+| --- | --- | --- |
+| 1 | Discrete mathematics; Programming I & II; Linear algebra; Logic for computer scientists; English for academic purposes | — |
+| 2 | Algorithms and data structures; Computer architecture; Databases; Operating systems; Probability and statistics | one cognitive-science minor module |
+| 3 | Software engineering project; Distributed systems; Compilers; Final-year thesis | three electives from a list of nine |
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+The third-year **final-year thesis (praca licencjacka)** is supervised by a member of the academic staff and carries 20 ECTS.
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+## Learning outcomes
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+Graduates are qualified to apply for Master's programmes at any Polish or European university and are eligible for the protected professional title of *inżynier* (engineer) on successful completion of an additional one-semester engineering project.
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+## Career destinations
 
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
+Recent BSc graduates have taken up positions at Atos, Allegro, ING Tech Poland, the Polish National Bank IT division, and small software houses in the Tri-City. About a third of each cohort continues directly into our MSc programme.

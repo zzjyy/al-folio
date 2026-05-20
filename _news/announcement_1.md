@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2026-05-12 09:00:00+0200
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+The 2026/27 application portal at **irk.zzok.edu.pl** opens on **1 June 2026**. See the [admissions page](/admissions/) for deadlines and entry requirements.

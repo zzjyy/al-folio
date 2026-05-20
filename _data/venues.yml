@@ -1,9 +1,31 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"POPL":
+  url: https://popl26.sigplan.org/
+  color: "#003366"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"NeurIPS":
+  url: https://neurips.cc/
+  color: "#5e2a8a"
 
-"Vision":
-  color: "#009f36"
+"ICML":
+  url: https://icml.cc/
+  color: "#005bb5"
+
+"PODC":
+  url: https://www.podc.org/
+  color: "#7a1e1e"
+
+"Cognition":
+  url: https://www.sciencedirect.com/journal/cognition
+  color: "#bf4d2c"
+
+"ACM TOCS":
+  url: https://tocs.acm.org/
+  color: "#00509e"
+
+"LICS":
+  url: https://lics.siglog.org/
+  color: "#2b6cb0"
+
+"CHI":
+  url: https://chi.acm.org/
+  color: "#1d6f42"

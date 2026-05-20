@@ -1,115 +1,137 @@
 ---
 ---
 
-@string{aps = {American Physical Society,}}
+@string{acm = {Association for Computing Machinery,}}
+@string{elsevier = {Elsevier,}}
+@string{springer = {Springer,}}
 
-@book{einstein1920relativity,
-  title     = {Relativity: the Special and General Theory},
-  author    = {Einstein, Albert},
-  year      = {1920},
-  publisher = {Methuen & Co Ltd},
-  html      = {relativity.html}
-}
+% ======================================================================
+% 2026
+% ======================================================================
 
-@book{einstein1956investigations,
+@inproceedings{wieczorek2026proofcsp,
+  abbr        = {LICS},
   bibtex_show = {true},
-  title       = {Investigations on the Theory of the Brownian Movement},
-  author      = {Einstein, Albert},
-  year        = {1956},
-  publisher   = {Courier Corporation},
-  preview     = {brownian-motion.gif}
+  title       = {On the proof complexity of constraint satisfaction over finite structures},
+  author      = {Wieczorek, Tomasz and Wójcik, Halina},
+  booktitle   = {Proceedings of the 41st Annual ACM/IEEE Symposium on Logic in Computer Science (LICS)},
+  year        = {2026},
+  publisher   = acm,
+  abstract    = {We give the first matched upper and lower bounds for resolution refutations of CSPs over arbitrary finite relational structures, settling an open question of Atserias and Bulatov. The proof relies on a novel pebble-game argument over the universal-algebraic invariants of the template.},
+  selected    = {true}
 }
 
-@article{einstein1950meaning,
-  abbr        = {AJP},
+@article{krzeminska2026predictive,
+  abbr        = {Cognition},
   bibtex_show = {true},
-  title       = {The meaning of relativity},
-  author      = {Einstein, Albert and Taub, AH},
-  journal     = {American Journal of Physics},
-  volume      = {18},
-  number      = {6},
-  pages       = {403--404},
-  year        = {1950},
-  publisher   = {American Association of Physics Teachers}
+  title       = {Predictive coding in primary auditory cortex: a hierarchical Bayesian account},
+  author      = {Krzemińska, Joanna and Nowak, Aleksandra},
+  journal     = {Cognition},
+  volume      = {249},
+  pages       = {105722},
+  year        = {2026},
+  publisher   = elsevier,
+  abstract    = {We present electrophysiological evidence from 38 adult listeners supporting a hierarchical Bayesian account of predictive coding in primary auditory cortex. The model accounts for both phase-locked responses and adaptation effects within a single generative framework.},
+  selected    = {true}
 }
 
-@article{PhysRev.47.777,
-  abbr              = {PhysRev},
-  title             = {Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?},
-  author            = {Einstein*†, A. and Podolsky*, B. and Rosen*, N.},
-  abstract          = {In a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete.},
-  journal           = {Phys. Rev.},
-  location          = {New Jersey},
-  volume            = {47},
-  issue             = {10},
-  pages             = {777--780},
-  numpages          = {0},
-  year              = {1935},
-  month             = {May},
-  publisher         = aps,
-  doi               = {10.1103/PhysRev.47.777},
-  url               = {https://link.aps.org/doi/10.1103/PhysRev.47.777},
-  html              = {https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777},
-  pdf               = {example_pdf.pdf},
-  altmetric         = {248277},
-  dimensions        = {true},
-  google_scholar_id = {qyhmnyLat1gC},
-  video             = {https://www.youtube-nocookie.com/embed/aqz-KE-bpKQ},
-  additional_info   = {. *More Information* can be [found here](https://github.com/alshedivat/al-folio/)},
-  annotation        = {* Example use of superscripts<br>† Albert Einstein},
-  selected          = {true},
-  inspirehep_id     = {3255}
-}
-
-@article{einstein1905molekularkinetischen,
-  title     = {{\"U}ber die von der molekularkinetischen Theorie der W{\"a}rme geforderte Bewegung von in ruhenden Fl{\"u}ssigkeiten suspendierten Teilchen},
-  author    = {Einstein, A.},
-  journal   = {Annalen der physik},
-  volume    = {322},
-  number    = {8},
-  pages     = {549--560},
-  year      = {1905},
-  publisher = {Wiley Online Library}
-}
-
-@article{einstein1905movement,
-  abbr    = {Ann. Phys.},
-  title   = {Un the movement of small particles suspended in statiunary liquids required by the molecular-kinetic theory 0f heat},
-  author  = {Einstein, A.},
-  journal = {Ann. Phys.},
-  volume  = {17},
-  pages   = {549--560},
-  year    = {1905}
-}
-
-@article{einstein1905electrodynamics,
-  title  = {On the electrodynamics of moving bodies},
-  author = {Einstein, A.},
-  year   = {1905}
-}
-
-@article{einstein1905photoelectriceffect,
+@inproceedings{janicki2026clearing,
+  abbr        = {ACM TOCS},
   bibtex_show = {true},
-  abbr        = {Ann. Phys.},
-  title       = {{{\"U}ber einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt}},
-  author      = {Albert Einstein},
-  abstract    = {This is the abstract text.},
-  journal     = {Ann. Phys.},
-  volume      = {322},
-  number      = {6},
-  pages       = {132--148},
-  year        = {1905},
-  doi         = {10.1002/andp.19053220607},
-  award       = {Albert Einstein receveid the **Nobel Prize in Physics** 1921 *for his services to Theoretical Physics, and especially for his discovery of the law of the photoelectric effect*},
-  award_name  = {Nobel Prize}
+  title       = {A deterministic-replay key-value store for high-throughput clearing systems},
+  author      = {Janicki, Marek and Dąbrowski, Piotr},
+  booktitle   = {ACM Transactions on Computer Systems},
+  volume      = {44},
+  number      = {2},
+  year        = {2026},
+  publisher   = acm,
+  abstract    = {We describe a geo-replicated key-value store deployed in production by a European financial-clearing operator. The system provides deterministic replay across replicas at sub-millisecond tail latency and tolerates simultaneous failures of f out of 3f+1 replicas.},
+  selected    = {true}
 }
 
-@book{przibram1967letters,
+% ======================================================================
+% 2025
+% ======================================================================
+
+@inproceedings{wojcik2025weakmem,
+  abbr        = {POPL},
   bibtex_show = {true},
-  title       = {Letters on wave mechanics},
-  author      = {Einstein, Albert and Schrödinger, Erwin and Planck, Max and Lorentz, Hendrik Antoon and Przibram, Karl},
-  year        = {1967},
-  publisher   = {Vision},
-  preview     = {wave-mechanics.gif},
-  abbr        = {Vision}
+  title       = {Separation logic for the C11 release-acquire fragment, revisited},
+  author      = {Wójcik, Halina},
+  booktitle   = {Proceedings of the 52nd ACM SIGPLAN Symposium on Principles of Programming Languages (POPL)},
+  year        = {2025},
+  publisher   = acm,
+  abstract    = {We give a new completeness proof for an iris-style separation logic restricted to the C11 release-acquire fragment, and use it to verify a lock-free queue implementation that had eluded earlier attempts.}
+}
+
+@article{nowak2025aspect,
+  bibtex_show = {true},
+  title       = {Grammatical aspect across the Slavic and Baltic languages: a longitudinal study of acquisition},
+  author      = {Nowak, Aleksandra and Krzemińska, Joanna},
+  journal     = {Journal of Child Language},
+  volume      = {52},
+  number      = {4},
+  pages       = {811--840},
+  year        = {2025},
+  publisher   = {Cambridge University Press}
+}
+
+@inproceedings{dabrowski2025accessible,
+  abbr        = {CHI},
+  bibtex_show = {true},
+  title       = {Co-designing accessible municipal services: a four-year field study in Szczecin},
+  author      = {Dąbrowski, Piotr and Lindqvist, Annika},
+  booktitle   = {CHI '25: Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems},
+  year        = {2025},
+  publisher   = acm,
+  abstract    = {We report on a four-year, participatory design study with the City of Szczecin to redesign three core municipal services. The study yields five transferable design patterns and a sobering account of what does not generalise.}
+}
+
+% ======================================================================
+% 2024
+% ======================================================================
+
+@inproceedings{janicki2024consensus,
+  abbr        = {PODC},
+  bibtex_show = {true},
+  title       = {Byzantine-fault-tolerant consensus with sub-quadratic communication, in practice},
+  author      = {Janicki, Marek},
+  booktitle   = {Proceedings of the 43rd ACM Symposium on Principles of Distributed Computing (PODC)},
+  year        = {2024},
+  publisher   = acm
+}
+
+@article{wieczorek2024proof,
+  bibtex_show = {true},
+  title       = {Lower bounds for treewidth-respecting proofs},
+  author      = {Wieczorek, Tomasz and Kałużny, Jerzy},
+  journal     = {Logical Methods in Computer Science},
+  volume      = {20},
+  number      = {3},
+  year        = {2024},
+  selected    = {true}
+}
+
+% ======================================================================
+% 2023
+% ======================================================================
+
+@inproceedings{krzeminska2023bayesian,
+  abbr        = {NeurIPS},
+  bibtex_show = {true},
+  title       = {Calibrated uncertainty for neural models of perception},
+  author      = {Krzemińska, Joanna and Janicki, Marek},
+  booktitle   = {Advances in Neural Information Processing Systems (NeurIPS)},
+  volume      = {36},
+  year        = {2023}
+}
+
+@incollection{wieczorek2023csp,
+  bibtex_show = {true},
+  title       = {Constraint satisfaction: an introduction},
+  author      = {Wieczorek, Tomasz},
+  booktitle   = {Handbook of Constraint Programming, 2nd ed.},
+  editor      = {Rossi, Francesca and van Beek, Peter and Walsh, Toby},
+  publisher   = elsevier,
+  year        = {2023}
 }
