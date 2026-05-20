@@ -65,40 +65,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/contact/";
           },
-        },{id: "dropdown-faculty-cv-example",
-              title: "faculty CV (example)",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/cv/";
-              },
-            },{id: "dropdown-open-source-repositories",
-              title: "open-source repositories",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/repositories/";
-              },
-            },{id: "dropdown-library",
-              title: "library",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/books/";
-              },
-            },{id: "dropdown-notebook",
-              title: "notebook",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/blog/";
-              },
-            },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
-            },},{id: "news-autumn-open-house-for-prospective-bachelor-s-applicants-saturday-23-november-10-00-14-00-main-building-registration-via-the-admissions-page",
+        },{id: "news-autumn-open-house-for-prospective-bachelor-s-applicants-saturday-23-november-10-00-14-00-main-building-registration-via-the-admissions-page",
           title: 'Autumn Open House for prospective Bachelor’s applicants: Saturday 23 November, 10:00–14:00, main building....',
           description: "",
           section: "News",},{id: "news-call-for-papers-11th-baltic-workshop-on-computation-and-mind",
@@ -170,16 +137,6 @@ ninja.data = [{
           description: "2 semesters · 60 ECTS · part-time · evenings &amp; weekends",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
-            },},{id: "teachings-data-science-fundamentals",
-          title: 'Data Science Fundamentals',
-          description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
-          section: "Teachings",handler: () => {
-              window.location.href = "/teachings/data-science-fundamentals/";
-            },},{id: "teachings-introduction-to-machine-learning",
-          title: 'Introduction to Machine Learning',
-          description: "This course provides an introduction to machine learning concepts, algorithms, and applications. Students will learn about supervised and unsupervised learning, model evaluation, and practical implementations.",
-          section: "Teachings",handler: () => {
-              window.location.href = "/teachings/introduction-to-machine-learning/";
             },},{
         id: 'social-email',
         title: 'email',
