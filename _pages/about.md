@@ -12,7 +12,6 @@ profile:
     <p><strong>Rector's Office</strong></p>
     <p>ul. Słoneczna 27</p>
     <p>70-001 Szczecin, Poland</p>
-    <p>+48 91 555 0140</p>
     <p>office@zzok.edu.pl</p>
 
 selected_papers: true

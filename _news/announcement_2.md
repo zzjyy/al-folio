@@ -12,4 +12,4 @@ The project continues a line of work that ZZOK has pursued since 2018, in collab
 
 ---
 
-For media enquiries please contact <code>press@zzok.edu.pl</code>.
+For media enquiries please contact <code>office@zzok.edu.pl</code>.

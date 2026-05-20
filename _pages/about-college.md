@@ -56,4 +56,4 @@ The Senate convenes monthly during the academic year. Minutes are published in t
 
 ## Public Information Bulletin (BIP)
 
-In accordance with Polish law, the following documents are available on request from the Chancellor's office: the founding charter (*akt założycielski*), current statute (*statut*), Senate resolutions (*uchwały Senatu*), annual financial report, and study-programme descriptions. Requests may be submitted to bip@zzok.edu.pl.
+In accordance with Polish law, the following documents are available on request from the Chancellor's office: the founding charter (*akt założycielski*), current statute (*statut*), Senate resolutions (*uchwały Senatu*), annual financial report, and study-programme descriptions. Requests may be submitted to <code>office@zzok.edu.pl</code> with the subject line "BIP".

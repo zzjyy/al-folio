@@ -11,7 +11,7 @@ The seven-semester engineering programme (210 ECTS) qualifies graduates for the 
 
 ## Industrial placement
 
-A 12-week supervised placement at one of ZZOK's 28 partner companies is a mandatory part of the curriculum. Placements are coordinated by the Faculty Industry Officer (industry@zzok.edu.pl) and are normally undertaken in the summer between the third and fourth years.
+A 12-week supervised placement at one of ZZOK's 28 partner companies is a mandatory part of the curriculum. Placements are coordinated by the Faculty Industry Officer; for enquiries please write to <code>office@zzok.edu.pl</code>. They are normally undertaken in the summer between the third and fourth years.
 
 ## Specialisations
 - Distributed systems and reliability

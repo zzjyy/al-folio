@@ -53,10 +53,10 @@ ZZOK administers four scholarship schemes:
 3. **Voivodeship Scholarship for International Students** — funded by the West Pomeranian Voivodeship; 12 places per year.
 4. **NAWA STER** — applicable to PhD candidates from outside the EU.
 
-A separate fund is available for students with disabilities; please contact the Dean of Students at <code>dean-of-students@zzok.edu.pl</code> for confidential advice.
+A separate fund is available for students with disabilities; please contact <code>office@zzok.edu.pl</code> for confidential advice (the message will be forwarded to the Dean of Students).
 
 ## How to apply
 
 Applications are submitted through the **IRK ZZOK** portal at <code>https://irk.zzok.edu.pl</code>. The portal accepts both Polish ePUAP / mObywatel authentication and ordinary e-mail registration. Required documents (in PDF) are uploaded directly; originals are presented at enrolment.
 
-For questions please write to **admissions@zzok.edu.pl** or call the admissions office on **+48 91 555 0148** (Mon–Fri, 09:00–15:00 CET).
+For questions please write to **<code>office@zzok.edu.pl</code>** (Mon–Fri, 09:00–15:00 CET).

@@ -7,14 +7,14 @@ first_name: ZZOK
 middle_name: ""
 last_name: College
 contact_note: >
-  Office hours: Monday–Friday, 09:00–16:00 CET. For admissions enquiries please write to admissions@zzok.edu.pl.
+  Office hours: Monday–Friday, 09:00–16:00 CET. For all enquiries please write to office@zzok.edu.pl.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   ZZOK — College of Computer Science and Cognitive Studies (Zachodni Zespół Obliczeń i Kognitywistyki) is an
   independent higher-education institution in Szczecin, Poland, offering accredited Bachelor's, Master's, and
   doctoral programmes in computer science, applied AI, and cognitive studies.
 footer_text: >
   ZZOK — College of Computer Science and Cognitive Studies · ul. Słoneczna 27, 70-001 Szczecin, Poland ·
-  office@zzok.edu.pl · +48 91 555 0140. Entry in the national register of higher-education institutions: 376.
+  office@zzok.edu.pl. Entry in the national register of higher-education institutions: 376.
 keywords: ZZOK, Szczecin, computer science college, cognitive science, higher education Poland, edu.pl, AI Master's programme
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: favicon.svg # path inside /assets/img/ for the site favicon
