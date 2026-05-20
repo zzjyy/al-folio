@@ -1,14 +1,7 @@
 # Public-facing social and institutional contact links for ZZOK.
-# Order here determines display order via jekyll-socials.
-cv_pdf: # the institution-wide handbook is published elsewhere; no PDF here
+# Key names must match jekyll-socials' SOCIAL_URLS map exactly.
 email: office@zzok.edu.pl
+linkedin_username: zzok-college-szczecin
+github_username: zzok-edu
+youtube_id: zzok-edu
 rss_icon: true
-linkedin: zzok-college-szczecin
-youtube: "@zzok-edu"
-github_org: zzok-edu
-mastodon:
-  url: https://mstdn.social/@zzok
-custom_social:
-  logo: https://upload.wikimedia.org/wikipedia/commons/4/47/Coat_of_arms_of_Szczecin.svg
-  title: City of Szczecin
-  url: https://szczecin.eu/en

@@ -1,11 +1,15 @@
-FROM registry.cn-hangzhou.aliyuncs.com/lm_ns/ruby:slim
+FROM docker.m.daocloud.io/library/ruby:slim
 
-RUN sed -i 's/deb.debian.org/mirrors.aliyun.com/g' /etc/apt/sources.list.d/debian.sources || true
-RUN sed -i 's/security.debian.org/mirrors.aliyun.com/g' /etc/apt/sources.list.d/debian.sources || true
+RUN sed -i 's|deb.debian.org|mirrors.aliyun.com|g; s|security.debian.org|mirrors.aliyun.com|g' /etc/apt/sources.list.d/debian.sources || true
 
 RUN apt-get update && apt-get install -y --no-install-recommends \
     build-essential \
     git \
+    imagemagick \
+    libjpeg-dev \
+    libpng-dev \
+    libtiff-dev \
+    zlib1g-dev \
     && rm -rf /var/lib/apt/lists/*
 
 WORKDIR /srv/jekyll
