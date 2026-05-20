@@ -10,8 +10,8 @@ group :jekyll_plugins do
     gem 'jekyll-email-protect'
     gem 'jekyll-feed'
     gem 'jekyll-get-json'
-    gem 'jekyll-imagemagick'
-    gem 'jekyll-jupyter-notebook'
+    # gem 'jekyll-imagemagick'      # disabled: Cloudflare build env lacks the `convert` CLI
+    # gem 'jekyll-jupyter-notebook' # disabled: requires the `jupyter` CLI; no notebooks on this site
     gem 'jekyll-link-attributes'
     gem 'jekyll-minifier'
     gem 'jekyll-paginate-v2'
