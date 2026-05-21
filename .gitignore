@@ -1,5 +1,8 @@
 _site
 .bundle
+.claude/settings.local.json
+*.build.log
+*Zone.Identifier
 .DS_store
 .idea
 .jekyll-cache
